@@ -65,11 +65,13 @@ You: Who is the father of computer?
 🤖 Based on the search results...
 ```
 
-```bash
+
 To exit:
+
+```bash
+You: exit
 ```
 
-You: exit
 
 
 ## 🤖 OUPUT 
