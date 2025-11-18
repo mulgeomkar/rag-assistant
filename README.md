@@ -14,7 +14,8 @@ This project answers real-time questions using **search-based context** and a **
 - 🖥️ Simple CLI chat interface  
 
 ---
-
+## ➡️ Workflow
+![Workflow Diagram](Image2.png)
 ---
 
 ## 🚀 Getting Started
