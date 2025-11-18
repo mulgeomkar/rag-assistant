@@ -70,3 +70,14 @@ To exit:
 ```
 
 You: exit
+
+
+## 🤖 OUPUT 
+![Result screenshot](Image.png)
+
+
+📝 Troubleshooting
+Missing module?
+```bash
+pip install ddgs
+```
